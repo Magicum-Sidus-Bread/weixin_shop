@@ -41,7 +41,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.19.4",
   "appid": "wxeff9530dfc413129",
-  "projectname": "shopping",
+  "projectname": "weixin_shop",
   "debugOptions": {
     "hidedInDevtools": []
   },
