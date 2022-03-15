@@ -1,4 +1,5 @@
-<view>首页
-    <text class="iconfont icon-dingdan"></text>
+<view class="shop_index">
+    <!--搜索框开始-->
+    <SearchInput></SearchInput>
+    <!--搜索框结束-->
 </view>
-  
