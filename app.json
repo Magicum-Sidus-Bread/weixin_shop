@@ -17,7 +17,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#ea986c",
-    "navigationBarTitleText": "牛牛优购",
+    "navigationBarTitleText": "牛牛的货摊",
     "navigationBarTextStyle":"white"
   },
   "tabBar": {

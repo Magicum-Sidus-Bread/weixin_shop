@@ -8,6 +8,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #fff;
+  background-color: #ffffff;
   border-radius: 15rpx 50rpx;
+  color:#787878;
 }
